@@ -1,4 +1,4 @@
-# Mobile Tracking
+# Video Recorder
 
 This repository is for an application which can be used in Android Devices, to record videos at 720p 30fps.
 
