@@ -16,7 +16,7 @@ The apk can be found [here](https://github.com/kantarcise/Video-Tracker/blob/mas
 
 At the installing phase, android might give you a warning about not installing the apk, and might ask you to give permission first. If so; give permission for the apk to be installed, saying you trust this source.
 
-The next step is to make the folder inside your phones "Internal Storage." Basically make the folder named **"MasterThesisSource"** This is case-sensitive, so make sure you are naming the folder exactly this.
+The next step is to make the folder inside your phones "Internal Storage." Basically make the folder named **"MasterThesisSource"** inside **DCIM**.This is case-sensitive, so make sure you are naming the folder exactly this.
 
 ## Running the tests
 
