@@ -28,7 +28,7 @@ It has pretty simple user interface, just press "START" to start recording. When
 
 While recording, try to keep the videos short, between 2-15 seconds. If you decided what object you are going to track, make sure you have it in your frame, before pressing start. 
 
-After successfully recording a video you can upload it to a fileshare website; for example [WeTransfer](https://wetransfer.com/) , you can send the link to [Sezai](mailto:sezaiburakkantarci@gmail.com) with your name & year of study at ITU.
+After successfully recording a video you can upload it to a fileshare website; for example [WeTransfer](https://wetransfer.com/) , you can send the link to [Sezai](mailto:sezaiburakkantarci@gmail.com) with your name & your smartphone brand/model & year of study at ITU.
 
 Thank you for your contribution!
 
