@@ -22,6 +22,8 @@ The next step is to make the folder inside your phones "Internal Storage." Basic
 
 After installation, open the app.
 
+It will ask for permission to use the camera, if that is the case, allow it.
+
 It has pretty simple user interface, just press "START" to start recording. When you press "STOP" the video would be recorded.
 
 ### Tips And Tricks
