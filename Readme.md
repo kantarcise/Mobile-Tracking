@@ -10,6 +10,8 @@ After that you might need to open usb debugging, from the developer options. Thi
 
 ### Installing
 
+The app you are installing is called **"Rich Video Recorder"**
+
 The apk can be found [here](). It is inside this repository. Simply, take the file and open it.
 
 At the installing phase, android might give you a warning about not installing the apk, and might ask you to give permission first. If so; give permission for the apk to be installed, saying you trust this source.
@@ -26,13 +28,9 @@ It has pretty simple user interface, just press "START" to start recording. When
 
 While recording, try to keep the videos short, between 2-15 seconds. If you decided what object you are going to track, make sure you have it in your frame, before pressing start. 
 
+After successfully recording a video you can upload it to a fileshare website; for example [WeTransfer](https://wetransfer.com/) , you can send the link to [Sezai](mailto:sezaiburakkantarci@gmail.com) with your name & year of study at ITU.
+
 Thank you for your contribution!
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Help, I'm Stuck!
 
