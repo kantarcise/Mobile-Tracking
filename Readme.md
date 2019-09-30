@@ -1,62 +1,32 @@
 # Mobile Tracking
 
-This project is about improving object tracking performance with using different sensor datas, such as accelerometer; well for the first part.
+This repository is for an application which can be used in Android Devices, to record videos at 720p 30fps.
 
 ## Getting Started
 
-With a given video with a definite resolution and frame rate; if our goal is to track a specific object, there are several options can be used as the object detection system. 
+First you need to enable developer settings for your mobile phone. There is a different route for every brand & model. Just Google "How to enable developer options for X" , X being your smartphone brand/model.
 
-Our goal here is to read data from accelerometer and gyroscope from a smartphone, which the video recorded from, and use that data to improve the accuracy of tracking.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+After that you might need to open usb debugging, from the developer options. This step is not necessary, but if you cannot connect the device you might give it a try.
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+The apk can be found [here](). It is inside this repository. Simply, take the file and open it.
 
-Say what the step will be
+At the installing phase, android might give you a warning about not installing the apk, and might ask you to give permission first. If so; give permission for the apk to be installed, saying you trust this source.
 
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+The next step is to make the folder inside your phones "Internal Storage." Basically make the folder named **"MasterThesisSource"** This is case-sensitive, so make sure you are naming the folder exactly this.
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+After installation, open the app.
 
-### Break down into end to end tests
+It has pretty simple user interface, just press "START" to start recording. When you press "STOP" the video would be recorded.
 
-Explain what these tests test and why
+### Tips And Tricks
 
-```
-Give an example
-```
+While recording, try to keep the videos short, between 2-15 seconds. If you decided what object you are going to track, make sure you have it in your frame, before pressing start. 
 
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+Thank you for your contribution!
 
 ## Built With
 
@@ -64,26 +34,9 @@ Add additional notes about how to deploy this on a live system
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
-## Contributing
+## Help, I'm Stuck!
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+For any questions regarding on how to use the app, feel free to contact [Sezai](mailto:sezaiburakkantarci@gmail.com) from the mail. 
 
-## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
