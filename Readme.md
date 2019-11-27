@@ -10,9 +10,9 @@ After that you might need to open usb debugging, from the developer options. Thi
 
 ### Installing
 
-The app you are installing is called **"Rich Video Recorder"**
+The app you are installing is called **"Video Recorder"**
 
-The apk can be found [here](https://github.com/kantarcise/Video-Tracker/blob/master/RichVideoRecorder.apk). It is inside this repository. Simply, download the file and open it.
+The apk can be found [here](https://github.com/kantarcise/Video-Tracker/blob/master/VideoRecorder.apk). It is inside this repository. Simply, download the file and open it.
 
 At the installing phase, android might give you a warning about not installing the apk, and might ask you to give permission first. If so; give permission for the apk to be installed, saying you trust this source.
 
