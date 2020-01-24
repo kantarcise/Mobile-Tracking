@@ -19,7 +19,7 @@ At the installing phase, android might give you a warning about not installing t
  <!--- The next step is to make the folder inside your phones "Internal Storage." Basically make the folder named **"VideoSource"** inside **DCIM**. This is case-sensitive, so make sure you are naming the folder exactly this.
 --->
 
-## Running the tests
+## Recording Videos
 
 After installation, open the app.
 
